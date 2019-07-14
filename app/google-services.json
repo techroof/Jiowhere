@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652224963274",
+    "firebase_url": "https://locationapp-50c5e.firebaseio.com",
+    "project_id": "locationapp-50c5e",
+    "storage_bucket": "locationapp-50c5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652224963274:android:2f967434b1a8d1a0",
+        "android_client_info": {
+          "package_name": "com.jiowhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652224963274-8qp7i81254tbnbsvgn1i4bdqu9vk7umc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbRo-2FUhHl5UCLqt0-MElcMkkThKYrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652224963274-8qp7i81254tbnbsvgn1i4bdqu9vk7umc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

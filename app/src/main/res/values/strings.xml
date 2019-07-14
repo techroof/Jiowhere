@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JioWhere</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="prompt">Choose location</string>
+    <string name="place_api">AIzaSyDwbRo-2FUhHl5UCLqt0-MElcMkkThKYrk</string>
+    <string-array name="places">
+        <item>SELECT PLACE</item>
+        <item>COFFEE SHOP</item>
+        <item>RESTAURANT</item>
+        <item>HOTEL</item>
+        <item>PARK</item>
+    </string-array>
+</resources>
